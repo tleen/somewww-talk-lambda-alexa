@@ -1,0 +1,30 @@
+---
+layout: passthrough
+---
+Credits for {{site.title}}
+===========================
+
+Team
+----
+
+Everything: {{site.author.name}}
+Contact: tl -at- thomasleen.com
+URLs: http://www.thomasleen.com, https://github.com/tleen
+Location: Portland, Maine
+
+Thanks
+------
+For the Alexa image:
+http://www.themarketbusiness.com/wp-content/uploads/2015/06/Alexa-Voice-Assistant-To-Be-Funded-By-Amazon.jpg
+
+Technologies
+------------
+
+Jekyll - http://jekyllrb.com/
+Static site generator
+
+GitHub - http://github.com/
+and GitHub pages which is hosting this slideshow
+
+Reveal.js - http://lab.hakim.se/reveal-js/
+Javascript/HTML presentations
