@@ -1,6 +1,10 @@
 ---
 ---
 
+img{
+  border-width: 1px;
+}
+
 .img-clean{
   background: none;
   border: none;
@@ -47,6 +51,7 @@
       max-height: 2.0em;
       margin-left: 1.0em;
       vertical-align: middle;
+      border-width: 1px;
     }
   }
 }
