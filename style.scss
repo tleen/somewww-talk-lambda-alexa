@@ -1,13 +1,9 @@
 ---
 ---
 
-img{
-  border-width: 1px;
-}
-
 .img-clean{
   background: none;
-  border: none;
+  border-width: 1px;
   box-shadow: none;
   margin: 1.0em;
 }
@@ -43,10 +39,10 @@ img{
       font-size: 2.5em;
     }
 
-    img[src$='alexa.jpg']{
+    img{
       @extend .img-clean;
     }
-
+    
     img[alt='Avatar']{
       max-height: 2.0em;
       margin-left: 1.0em;
